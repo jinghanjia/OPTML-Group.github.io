@@ -58,7 +58,7 @@ Figure 2: Overview for Machine Unlearning.
 
 
 ## What are Challenges in Machine Unlearning?
-**Efficicy Challenge**: The ideal MU strategy involves full model retraining, which is inefficient for large models. Therefore, **fast** and **efficient** MU methods are essential. 
+**Efficiency Challenge**: The ideal MU strategy involves full model retraining, which is inefficient for large models. Therefore, **fast** and **efficient** MU methods are essential. 
 
 **Evaluation Challenges**: 
 Different from traditional machine learning problem, MU requires multiple unlearning performance metrics, which shown in the figure 3 below.
